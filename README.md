@@ -6,3 +6,5 @@ You can find more information about me and what I am doing on [my blog](https://
 
 ## Contact
 If you have any question, you can contact me via mail: <mateusz@omni-cloud.eu>
+
+You can thank me by [buying me a beer 🍺](paypal.me/omnicloudeu)
